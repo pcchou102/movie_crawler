@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-crawler.streamlit.app)
 
-🌐 **線上展示：[[https://movie-crawler.streamlit.app](https://movie-crawler.streamlit.app)](https://cwaweather-kspfc8samf3xupib2tciau.streamlit.app/)**
+🌐 **線上展示：https://cwaweather-kspfc8samf3xupib2tciau.streamlit.app/**
 
 這是一個完整的電影資料爬蟲與視覺化展示系統，從 [https://ssr1.scrape.center/](https://ssr1.scrape.center/) 爬取電影資訊，並使用 Streamlit 建立互動式網頁應用程式。
 
